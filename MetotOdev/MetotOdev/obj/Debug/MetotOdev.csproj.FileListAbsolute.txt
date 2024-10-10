@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\MetotOdev\MetotOdev\obj\Debug\MetotOdev.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\MetotOdev\MetotOdev\obj\Debug\MetotOdev.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\MetotOdev\MetotOdev\bin\Debug\MetotOdev.exe.config
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\MetotOdev\MetotOdev\bin\Debug\MetotOdev.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\MetotOdev\MetotOdev\bin\Debug\MetotOdev.pdb
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\MetotOdev\MetotOdev\obj\Debug\MetotOdev.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\MetotOdev\MetotOdev\obj\Debug\MetotOdev.pdb
